@@ -120,21 +120,13 @@ All dependencies are installed within the notebook.
 
 If you use this framework in your research, please cite:
 
-```bibtex
-@article{yourcitation,
-  title={Evaluating Plausibility of Explainable AI in Clinical Gait Analysis: A Framework using Sensitivity, Faithfulness, and Cross-Method Coherence},
-  author={Author Names},
-  journal={Under review},
-  year={2025}
-}
-```
 
 ---
 
 ## 📬 Contact
 
 For questions or collaborations:  
-[your-email@domain.com]
+[ching.chiu@ndorms.ox.ac.uk]
 
 ---
 
